@@ -1,0 +1,17 @@
+{
+    "nickname": "Foggy",
+    "surname": "Kurmankozhoev",
+    "name": "Aidarbek",
+    "patronymic": "Amangazyevich",
+    "gender": "male",
+    "age": 18,
+    "dayOfBirth": 26,
+    "monthOfBirth": 10,
+    "yearOfBirth": 2004,
+    "status": "Student",
+    "university": "INAI.KG",
+    "course": 1,
+    "group": "AIN-1-22",
+    "favoriteSubject": "programming languages",
+    "leastFavoriteSubject": "human interaction with computer"
+}
